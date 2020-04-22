@@ -1,4 +1,4 @@
-# Conveyor API
+# Bytes Node API
 
 API for creating and managing data conveyor flows to a ES and Node-RED backend
 
