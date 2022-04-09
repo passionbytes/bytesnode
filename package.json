@@ -44,7 +44,7 @@
         "hoek": "^4.2.1",
         "inert": "^4.2.1",
         "joi": "^10.6.0",
-        "moment": "^2.21.0",
+        "moment": "^2.29.2",
         "node-red": "^0.17.5",
         "node-red-embedded-start": "^0.1.6",
         "request": "^2.83.0",
