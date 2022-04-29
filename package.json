@@ -32,7 +32,7 @@
         "npm-run-all": "^4.1.2"
     },
     "dependencies": {
-        "async": "^2.6.0",
+        "async": "^2.6.4",
         "blipp": "^2.3.0",
         "boom": "^4.3.1",
         "dotenv": "^4.0.0",
